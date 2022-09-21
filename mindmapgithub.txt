@@ -1,0 +1,16 @@
+Add
+Git add
+	# Staging area
+Github
+	Git local
+		Local branch
+			Git push
+				Remote repo
+		Staging area
+			Git Commit
+				# Local branch
+		Working tree
+	Git sever
+		Remote repo
+Stagin
+	Add
